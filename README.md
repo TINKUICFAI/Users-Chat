@@ -1,7 +1,10 @@
-To setUp the .env file
-LOCAL_MONGO_DB = "Your Database connection link"
-PORT = 9000
-JWTSECRET = "you secret"
+# To setUp the .env file
+
+# LOCAL_MONGO_DB = "Your Database connection link"
+
+# PORT = 9000
+
+# JWTSECRET = "you secret"
 
 # We have Multiple apis in this project:-
 
