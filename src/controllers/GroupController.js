@@ -192,6 +192,7 @@ module.exports = () => {
       message,
     });
 
+    req.msg = "success";
     next();
   };
 
